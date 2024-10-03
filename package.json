@@ -2,9 +2,9 @@
   "homepage":"https://ramesh-46.github.io/telegrambot2",
   "name": "tgbot2",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "functions/bot.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node functions/bot.js",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
 
