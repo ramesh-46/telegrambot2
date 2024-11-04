@@ -1,3 +1,8 @@
+@rovieshub2bot
+
+the above is username. goto telegram app and search this u will se a minions dp. so thatisthe correctbot . now this will work only when this is running on my local system server. not run always it has to be host lively so temperolywhn my server is live on my local computerthen only thgis works
+
+
 
 Telegram Movie Bot
 Introduction
